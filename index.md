@@ -1,7 +1,10 @@
 # hello world!
 
 ## About Me
-Hello! My name is **Andrew Pan** and I'm a junior at UC San Diego majoring in *Computer Science and Cognitive Science*. 
+Hello! My name is **Andrew Pan** and I'm a junior at UC San Diego majoring in *Computer Science and Cognitive Science*.
+See [below](#favorite-classes-so-far) for my favorite classes thus far. 
+
+## Favorite Quote
 > "You miss 100 percent of the shots you don't take." ~Wayne Gretzky  
 
 ## Most Used Programming Language Currently
